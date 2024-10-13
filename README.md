@@ -10,3 +10,5 @@ The project focuses on a comprehensive analysis of Brazilian e-commerce performa
 - Targeted Marketing Campaigns:
   - Geographic Focus: With São Paulo being the top city for sales, develop targeted marketing campaigns in this region, leveraging local influencers and platforms for better engagement.
   - Product-Specific Promotions: Promote top-selling product categories through targeted advertising and seasonal promotions to capitalize on consumer trends.
+
+Data source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
