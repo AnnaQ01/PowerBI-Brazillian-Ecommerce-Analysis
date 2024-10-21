@@ -1,11 +1,11 @@
 The project focuses on a comprehensive analysis of Brazilian e-commerce performance over a specified time period, utilizing data visualization tools Power BI. The analysis includes key metrics such as total sales, freight costs, customer satisfaction, and delivery performance across various product categories and geographic regions. 
 
-<img width="970" alt="image" src="https://github.com/user-attachments/assets/25a663ff-2e29-4e87-8752-944bbbfe998c">
-<img width="970" alt="image" src="https://github.com/user-attachments/assets/d610251a-cdf3-43bd-821d-ee3da58bf13e">
-<img width="970" alt="image" src="https://github.com/user-attachments/assets/bdc41856-fc97-4d80-9d94-7f28f1d05c6b">
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/ff3b196b-7ef4-4b94-9de9-b84933899333">
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/c534d949-916d-429d-ae80-c7cc9e309920">
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/b60897e4-75c4-4143-99b3-632e475d427d">
 
-**Overview of the insights**
-- Total Customers: 99,000 customers
+# Overview of the insights
+- Total Customers: 99,000 customers.
 - Total Sellers: 3,095 sellers.
 - Total Orders: 96,000 orders.
 - Total Sales: $13.59 million.
@@ -15,23 +15,22 @@ The project focuses on a comprehensive analysis of Brazilian e-commerce performa
 - Cities by Customers: The largest concentration of customers is from Sao Paulo, followed by Rio de Janeiro and Belo Horizonte, indicating where most of the business comes from.
 - Top 5 Cities by Sellers: Sao Paulo is also the top city by sellers, with a large gap between other cities like Ibitinga and Curitiba.
 Sales and Freight Trends: There is a clear divergence between sales and freight costs, showing that despite increasing sales, freight costs are more controlled.
-Categories by Sales:
 - Categories: The top categories driving sales in this e-commerce analysis are led by Health Beauty, followed by Watches Gifts and Bed Bath Table. While Auto and Housewares are at the lower end.  Bottom 10 Categories by Sales include products like Bed Bath Table, Baby, Audio, and Books General Interest, which seem to be underperforming compared to other categories.
 - State-wise Performance: SP (Sao Paulo) has the highest sales, orders, and freight among all states, followed by PR (Paraná) and MG (Minas Gerais).
 - Avg Shipping Days: There is variation in shipping times across states, with SP having the fastest delivery at 8.66 days.
 - Customer Satisfaction: 57.78% giving a rating of 5 (highest), while smaller percentages gave lower ratings.
 
-**Orders & Sales insights:**
+# Orders & Sales insights
 - Main markets:Sao Paulo and Rio de Janeiro as key markets for this e-commerce platform, followed by Rio de Janeiro. Other cities like Belo Horizonte, Brasilia, and Curitiba contribute significantly less.
 - Order Distribution: The majority of orders are placed on weekdayslikely influenced by working hours. Orders tend to peak on Tuesdays, with a steady decline towards the weekend. The most orders are placed between 10 AM and 4 PM, with a peak around 1 PM. This suggests that customers customers prefer shopping during the week, and are most active during mid-day, possibly influenced by lunch breaks or regular working hours.
-- Distribution of Orders and Items Over Months: The total number of orders and items sold sees a steady increase throughout the year, with peaks during July and October.A sharp decline in both metrics occurs around November and December, which could be due to market conditions or holiday effects.
+- Distribution of Orders and Items Over Months: The total number of orders and items sold sees a steady increase throughout the year, with peaks during July and October. A sharp decline in both metrics occurs around November and December, which could be due to market conditions or holiday effects.
 - Monthly Sales Trends for Top 5 Categories: The top categories like Health Beauty, Watches Gifts, Sports Leisure, Computers, and Bed Bath Table show a consistent sales pattern. Health Beauty and Watches Gifts seem to be driving more sales in the second half of the year, especially from July to October.
-- Payment Type: e-commerce customers in this market heavily favor credit card payments with 74.03% of all transactions. Boleto accounts for 19%, while debit cards and vouchers represent a small portion of the payment methods used.
+- Payment Type: E-commerce customers in this market heavily favor credit card payments with 74.03% of all transactions. Boleto accounts for 19%, while debit cards and vouchers represent a small portion of the payment methods used.
 
-**Delivery insights:**
+# Delivery insights
 
 - Delivery Status: Most deliveries are on-time during weekdays, with a significant reduction in late deliveries. However, there are more late deliveries over the weekend.
-- On-Time and Late Deliveries Over Time: There is a steady rise in both on-time and late deliveries from early 2017 to mid-2018, with a peak in late 2018. However, on-time deliveries consistently outnumber late deliveries.
+- On-Time and Late Deliveries Over Time: There is a steady rise in both on-time and late deliveries from early 2017 to mid-2018, with a peak in late 2018. However, on-time deliveries consistently outnumber late deliveries. Significantly, on-time deliveries abruptly stopped increasing around mid-2018, while late deliveries continued at a steady rate. This suggests that despite efforts to improve on-time performance, there may have been a sudden disruption or limitation in maintaining on-time delivery rates. 
 - Delivery Status per State: SP (Sao Paulo) has the highest on-time deliveries, followed closely by RJ (Rio de Janeiro) and MG (Minas Gerais).
 BA (Bahia) shows a larger proportion of late deliveries compared to other states, indicating potential issues with the delivery system in that region.
 - Delivery Days by Product Category: Office Furniture takes the longest time to be delivered, averaging 20.8 days, followed by Christmas Supplies at 15.7 days.
@@ -42,7 +41,7 @@ Products with long delivery times, especially furniture, may require improvement
     - Watches Gifts and Toys have lower average review scores (3.31 and 3.17 respectively) but their shipping times are still around the average (12.59 and 11.63 days).
     - Small Appliances Home has the fastest shipping time at 9.79 days, but its review score is lower at 1.83. 
 
-**Suggestions**
+# Suggestions
 
 **For Boost sales:** 
 - Geographical Insights: Since Sao Paulo is the largest contributor in terms of both customers and sellers, discuss strategies to expand to underrepresented regions like Bahia or North-East Brazil, where logistics challenges are causing delays. Consider providing solutions such as enhancing delivery infrastructure or targeted promotions in these regions, and promotions to boost sales in lower Sales regions.
