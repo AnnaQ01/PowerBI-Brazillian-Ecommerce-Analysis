@@ -1,8 +1,9 @@
 The project focuses on a comprehensive analysis of Brazilian e-commerce performance over a specified time period, utilizing data visualization tools Power BI. The analysis includes key metrics such as total sales, freight costs, customer satisfaction, and delivery performance across various product categories and geographic regions. 
 
-<img width="950" alt="image" src="https://github.com/user-attachments/assets/ff3b196b-7ef4-4b94-9de9-b84933899333">
-<img width="950" alt="image" src="https://github.com/user-attachments/assets/c534d949-916d-429d-ae80-c7cc9e309920">
-<img width="950" alt="image" src="https://github.com/user-attachments/assets/b60897e4-75c4-4143-99b3-632e475d427d">
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/db3bb3a4-0032-4ff2-bf6b-df3c4ebd80ae">
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/6f5090e4-5844-4a78-84a3-a01d8e028c40">
+
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/6eaafca5-ee0d-4298-8f5a-cc1b05cd2ef3">
 
 # Overview of the insights
 - Total Customers: 99,000 customers.
